@@ -3,7 +3,7 @@
 I'm a Back-end developer who love to code.
 
 
-
+<img src="https://github-readme-stats-sirmerdas.vercel.app/api?username=sirmerdas&show_icons=true" />
 
 <!--
 **SirMERDAS/sirmerdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
