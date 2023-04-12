@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Reza Moradi</h1>
-<h3 align="center">I'm a Back-end developer from 🇮🇷 who codes non stop😁.</h3>
+<h1 align="center">Hi 👋, I'm Reza Moradi.</h1>
+<h3 align="center">I'm a Back-end developer from 🇮🇷.</h3>
+
+- 🌱 I’m currently learning everything😁.
+- 📫 How to reach me: sirmerdas@gmail.com
+
+<hr>
 
 ### Languages and Tools:
 <a href="https://www.php.net/" target="_blank"><img align="left" height="50" width="50" src="https://cdn.simpleicons.org/php" alt="php" /></a>
@@ -24,7 +29,7 @@
 
 
 
-<h2 align="center" > ⚡ My current streak ⚡ </h2>
+<h2 align="center" > 💫 My streak 💫 </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sirmerdas&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://sirmerdas.ir)
 
