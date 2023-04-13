@@ -20,11 +20,8 @@
 <h2 align="center">⚡ Github Stats</h2>
 <div algin="center"><img align="center" src="https://github-readme-stats-sirmerdas.vercel.app/api?username=sirmerdas&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
  
- <hr>
-
-![Top Langs](https://github-readme-stats-sirmerdas.vercel.app/api/top-langs/?username=sirmerdas&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- ![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&layout=compact&theme=tokyonight&hide_border=true) -->
+ 
+<!-- ![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&theme=tokyonight&hide_border=true) -->
 
 
 
