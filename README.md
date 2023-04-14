@@ -18,7 +18,7 @@
 <a href="https://react.dev/" target="_blank"><img align="" height="50" width="50" src="https://cdn.simpleicons.org/react" alt="react" /></a>
 
 <h2 align="center">⚡ Github Stats</h2>
-<div algin="center"><img align="center" src="https://github-readme-stats-sirmerdas.vercel.app/api?username=sirmerdas&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+<div algin="center"><img align="center" src="https://github-readme-stats-sirmerdas.vercel.app/api?username=sirmerdas&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GITHUB STATS"/>
  
  
 <!-- ![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&theme=tokyonight&hide_border=true) -->
