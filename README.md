@@ -21,7 +21,7 @@
 <div algin="center"><img align="center" src="https://github-readme-stats-sirmerdas.vercel.app/api?username=sirmerdas&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GITHUB STATS"/>
  
  
-![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&theme=tokyonight&hide_border=true) 
+<!-- ![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&theme=tokyonight&hide_border=true) -->
 
 
 
