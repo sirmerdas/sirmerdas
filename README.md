@@ -19,7 +19,9 @@
 
 <h2 align="center">⚡ Github Stats</h2>
 <div algin="center"><img align="center" src="https://github-readme-stats-sirmerdas.vercel.app/api?username=sirmerdas&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GITHUB STATS"/>
- 
+
+<h2 align="center">⚡ Coding Time ⚡ </h2>
+ <figure><embed src="https://wakatime.com/share/@sirmerdas/09c80da5-e603-41fb-bde9-cb0bc95ca3ff.svg"></embed></figure>
  
 <!-- ![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&theme=tokyonight&hide_border=true) -->
 
