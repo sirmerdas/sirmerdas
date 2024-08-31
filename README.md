@@ -25,17 +25,7 @@
 
 
  
-<!-- ![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&theme=tokyonight&hide_border=true) -->
-
-
-
-
-<h2 align="center" > 💫 My streak 💫 </h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sirmerdas&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=svg)](https://sirmerdas.ir)
-
- 
-
+![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&theme=tokyonight&hide_border=true)
  
  
 
