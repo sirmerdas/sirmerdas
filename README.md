@@ -22,10 +22,3 @@
 
 <h2 align="center">⚡ Coding Time ⚡ </h2>
 <div algin="center"><img align="center" src="https://wakatime.com/share/@sirmerdas/09c80da5-e603-41fb-bde9-cb0bc95ca3ff.svg" alt="WAKATIME STATS"/>
-
-
- 
-![sirmerdas's wakatime stats](https://github-readme-stats-sirmerdas.vercel.app/api/wakatime?username=sirmerdas&theme=tokyonight&hide_border=true)
- 
- 
-
