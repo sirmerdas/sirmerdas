@@ -20,5 +20,8 @@
 <h2 align="center">⚡ Github Stats</h2>
 <div algin="center"><img align="center" src="https://github-readme-stats-sirmerdas.vercel.app/api?username=sirmerdas&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GITHUB STATS"/>
 
+<h2 align="center">🚀 Most used languages</h2>
+<div algin="center"><img align="center" src="https://github-readme-stats-sirmerdas.vercel.app/api/top-langs/?username=sirmerdas&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Most used languages"/>
+
 <h2 align="center">⚡ Coding Time ⚡ </h2>
 <div algin="center"><img align="center" src="https://wakatime.com/share/@sirmerdas/09c80da5-e603-41fb-bde9-cb0bc95ca3ff.svg" alt="WAKATIME STATS"/>
